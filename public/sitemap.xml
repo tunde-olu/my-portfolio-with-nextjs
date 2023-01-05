@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+      <urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
+      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" 
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+      xmlns:xhtml="http://www.w3.org/1999/xhtml">
+      
+	<url>
+		<loc>https://tunde-olu.vercel.app/about</loc>
+		<lastmod>2023-01-05</lastmod>
+	</url>
+
+	<url>
+		<loc>https://tunde-olu.vercel.app/contact</loc>
+		<lastmod>2023-01-05</lastmod>
+	</url>
+
+	<url>
+		<loc>https://tunde-olu.vercel.app/portfolio</loc>
+		<lastmod>2023-01-05</lastmod>
+	</url>
+
+	<url>
+		<loc>https://tunde-olu.vercel.app/skills</loc>
+		<lastmod>2023-01-05</lastmod>
+	</url>
+
+	<url>
+		<loc>https://tunde-olu.vercel.app/</loc>
+		<lastmod>2023-01-05</lastmod>
+	</url>
+</urlset>
